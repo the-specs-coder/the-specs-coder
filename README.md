@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Sanjay N H 👋
 
-<!--
-**the-specs-coder/the-specs-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate about full-stack development, backend engineering, and building real-world projects.  
+🎯 Currently working on backend technologies like Node.js, Express.js, Kafka, Python, and exploring GenAI solutions.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Languages:** JavaScript, Python
+- **Frameworks:** ReactJS, NodeJS, ExpressJS, TailwindCSS, NextJS
+- **Databases:** MongoDB, MySQL
+- **Tools:** Git, Postman, Render, Vercel, Linux, Windows
+- **Other Technologies:** Kafka, WebSockets, Socket.io, Amazon Bedrock SDK, REST APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Projects (In Progress)
+- **GenAI Chatbot for CMT** – MERN Stack + Amazon Bedrock
+- **MERN Stack Messaging App** – Real-time chat app using Socket.io
+- **Portfolio Website** – Next.js and Tailwind CSS
+- **IoT-Based Temperature Monitoring System** – Bolt IoT, JavaScript, Python
+
+## 🎯 Goals for 2025
+- Deepen backend and cloud skills
+- Build open-source projects
+- Crack a top tech company
+
+---
+
+📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/sanjay-nh-38554a13a)
+
+
